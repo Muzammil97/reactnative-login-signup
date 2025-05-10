@@ -1,0 +1,33 @@
+api call and show card data
+3 card in a page.
+with axios and create card in it.
+assignment submit in picture
+........................
+
+
+
+react navigation
+
+stack navigation
+tab navigation
+drawer navigation
+
+
+image picker,
+react native paper
+release apk
+
+
+boilerplate
+login screen.
+signup screen
+then go to home page and where it show tab navigation.
+
+
+than hackathon will process..
+
+
+scroll view
+paper provider wrapper
+image launch and capture and view string of image and also show the image on console and applicationContext
+text input 
